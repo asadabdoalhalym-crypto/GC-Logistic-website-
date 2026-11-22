@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asadabdoalhalym-crypto.github.io/GC-Logistic-website-/sitemap.xml
